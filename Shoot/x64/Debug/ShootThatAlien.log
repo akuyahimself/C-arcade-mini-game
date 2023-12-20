@@ -1,0 +1,12 @@
+﻿  MainMenu.cpp
+  main.cpp
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(89,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(125,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(135,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(136,88): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(136,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(173,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(187,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\arthu\source\repos\ShootThatAlien\ShootThatAlien\main.cpp(200,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  ShootThatAlien.vcxproj -> C:\Users\arthu\source\repos\ShootThatAlien\x64\Debug\ShootThatAlien.exe
